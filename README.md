@@ -1,4 +1,4 @@
-# Sistema de <nombre del proyecto>
+# Sistema de "<nombre del proyecto>"
 
 Sistema  integral para la gestión <describir en pocas líneas que problemática resolverá el proyecto>
 
